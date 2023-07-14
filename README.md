@@ -39,4 +39,4 @@ npm install
 npm run dev
 ```
 
-And the website is reacdy on <a href="http://127.0.0.1:5173/">Here</a>
+And the website is ready on <a href="http://127.0.0.1:5173/">Here</a>
