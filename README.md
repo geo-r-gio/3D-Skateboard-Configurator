@@ -34,7 +34,9 @@ Customize your skatebaords in 3D
 
 1. Open the file & run the following commands in order
 ``` bash
-npm install
+npm install three @react-three/fiber @react-three/drei
+
+cd public
 
 npm run dev
 ```
