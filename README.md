@@ -4,6 +4,9 @@
 
 Customize your skatebaords in 3D
 
+https://github.com/geo-r-gio/3D-Skateboard-Configurator/assets/99597112/094eae93-1ef7-45a5-b710-9e1c8df3db2c
+
+
 ## Why is 3D convenient? ✔
 
 - Change the colors
